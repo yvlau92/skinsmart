@@ -1,7 +1,7 @@
 ##############################################
 ###  Data Science Bootcamp 8               ###
 ###  Project 2 - Web Scrapping             ###
-###  Yvonne Lau  / February 9, 2017        ###
+###  Yvonne Lau  / February 28, 2017       ###
 ###         Skincare Products              ###
 ###         Recommender System             ###
 ##############################################
